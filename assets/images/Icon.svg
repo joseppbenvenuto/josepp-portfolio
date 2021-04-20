@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="188px" height="187px" viewBox="0 0 188 187" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-172.000000, -2587.000000)">
+            <g id="Icon" transform="translate(172.000000, 2587.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="188" height="187" rx="10"></rect>
+                <text id="JB" font-family="AvenirNext-Heavy, Avenir Next" font-size="120" font-weight="600" line-spacing="120" letter-spacing="-0.578568" fill="#000000">
+                    <tspan x="12" y="142">JB</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
