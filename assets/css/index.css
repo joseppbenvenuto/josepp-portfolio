@@ -5,7 +5,7 @@
 /* ---- reset ---- */
 body {
 	margin: 0;
-	font-family: "'Poppins', sans-serif" !important;
+	font-family: "Poppins", sans-serif !important;
 }
 
 canvas {
@@ -414,7 +414,7 @@ span.type::after {
 /* About Section */
 
 .section-title {
-	font-family: "'Poppins', sans-serif" !important;
+	font-family: "Poppins", sans-serif !important;
 	margin-top: 100px;
 	font-weight: 700;
 	font-size: 3.5rem;
